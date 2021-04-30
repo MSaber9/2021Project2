@@ -1,1 +1,1 @@
-# 2021Project2 Anomaly-Detection-in-Networks-Using-ML
+# 2021Project2: Anomaly Detection in Networks using ML
